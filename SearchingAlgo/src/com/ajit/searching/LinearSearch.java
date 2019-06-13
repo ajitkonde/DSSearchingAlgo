@@ -30,7 +30,7 @@ public class LinearSearch {
 	 */
 	public static void main(String[] args) {
 		int arr[] = { 2, 3, 4, 10, 40 };
-		int x = 10;
+		int x = 11;
 
 		int result = search(arr, x);
 		if (result == -1)
