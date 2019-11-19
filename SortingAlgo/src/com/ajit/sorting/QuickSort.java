@@ -67,5 +67,6 @@ class QuickSort {
 
 		System.out.println("sorted array");
 		printArray(arr);
+		System.out.println("Made by Sangram")
 	}
 }
